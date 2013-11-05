@@ -7,7 +7,7 @@ gem 'bcrypt-ruby', '3.0.1' #,github: 'codahale/bcrypt-ruby'
 gem 'faker'
 gem 'will_paginate'
 gem 'bootstrap-will_paginate'
-gem 'less-rails-bootstrap'
+
 gem 'gherkin', '2.12.2'#, github: 'cucumber/gherkin'
 
 group :development, :test do
